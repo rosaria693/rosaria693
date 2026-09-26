@@ -13,3 +13,7 @@
 ## 📫 Contact
 - GitHub: [@rosaria693](https://github.com/rosaria693)
 
+## 📚 오늘 배운 것
+- `git add` / `git commit` 으로 기록 남기기
+- `git push` 로 깃허브에 올리기
+- branch, main, origin 개념
